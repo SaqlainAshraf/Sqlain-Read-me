@@ -110,7 +110,6 @@
 <p align="center">
 <a href="https://github.com/SaqlainAshraf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaqlainAshraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaqlainAshraf&layout=compact&langs_count=8&theme=dark"/>
 </a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqlainAshraf&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
@@ -129,18 +128,15 @@
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p align="center">
 <a href="https://github.com/Wajeeh-Haider" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wajeeh-Haider&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaqlainAshraf&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 </a>
 </p>
 
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Wajeeh-Haider/count.svg" />
+  <img src="https://profile-counter.glitch.me/SaqlainAshraf/count.svg" />
 </p>
 
 
 <br>
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31ghfefrrpnbyr5kmfrce4g6jcli" />
-<p/>
