@@ -3,12 +3,12 @@
     <h1> Hi there, I'm Saqlain Ashraf <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/SaqlainAshraf""></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+&+Mobile+App+Develoepr;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+And+Mobile+App+Develoepr;Front+End+Developer&center=true&width=500&height=50"></a>
 	
 
-### I'm a MERN Stack Developer and Teacher!
-- 🔭 I’m currently working as Backend Engineer @A3 Programmers.
-- 🌱 I’m currently expanding my knowledge in WEB 3.0.
+### I'm a Mobile App Developer and Teacher!
+- 🔭 I’m currently working as Mobile App Developer @A3 Programmers.
+- 🌱 I’m currently expanding my knowledge in Flutter.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
@@ -39,62 +39,59 @@
 	  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 	  </h1>
 
-
-
-
-
 <table width="100">
-<tr>
-    <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="80">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="80">
-    </td>
-<td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="80">
-    </td>
-</tr>
+
  
 <tr>
-    <td align='center'>
+    <td align='center' >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
- <td align='center'>
+ <td align='center' width="200">
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
     </td>
 </tr>
  
 <tr>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="80">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80">
     </td>
- <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" >
     </td>
-  <td align='center'>
+  <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80">
+    </td>
+</tr>
+	<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="80">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" width="80">
+    </td>
+  <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="80">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="80">
     </td>
 </tr>
     
@@ -111,11 +108,11 @@
  </h2>
 
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wajeeh-Haider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wajeeh-haider&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/SaqlainAshraf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaqlainAshraf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaqlainAshraf&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=dark" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqlainAshraf&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
 <br>
