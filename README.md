@@ -1,9 +1,9 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Wajeeh Haider <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/Wajeeh-Haider""></h1>
+    <h1> Hi there, I'm Saqlain Ashraf <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/SaqlainAshraf""></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Develoepr;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+&+Mobile+App+Develoepr;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
 	
 
 ### I'm a MERN Stack Developer and Teacher!
